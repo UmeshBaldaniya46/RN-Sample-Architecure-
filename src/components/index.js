@@ -1,0 +1,7 @@
+export { default as CustomTextComponent } from './Text'
+export { default as CustomTextInputComponent } from './TextInput'
+export { default as CustomFLoatingInput } from './TextInput/FloatingTextInput'
+export { default as CustomButtonComponent } from './Button'
+export { default as     TermsAndCondition } from './TermsAndPrivacy'
+export { default as Card } from './Card'
+export { default as Form } from './FormView'

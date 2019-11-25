@@ -1,0 +1,17 @@
+export const Assets = {
+    //Splash: require('./splash.png'),
+    slpash_logo: require('./ic_splash_logo.png'),
+    logo: require('./logo.png'),
+    profile: require('./ic_profile.png'),
+    user: require('./ic_user.png'),
+    logout: require('./ic_logout.png'),
+    archive: require('./ic_archive.png'),
+    menu: require('./ic_menu.png'),
+    filter: require('./ic_filter.png'),
+    more: require('./ic_more.png'),
+    notification: require('./ic_notification.png'),
+    back: require('./ic_back.png'),
+    bookmark: require('./ic_bookmark.png'),
+    menu_star: require('./ic_menu_star.png'),
+    refresh: require('./ic_refresh.png'),
+}

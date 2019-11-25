@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "495932449447",
+    "firebase_url": "https://hselifemessanger.firebaseio.com",
+    "project_id": "hselifemessanger",
+    "storage_bucket": "hselifemessanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495932449447:android:1d027d214cb506c1f37182",
+        "android_client_info": {
+          "package_name": "com.sample_architecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495932449447-tmic5sj2t8gnajrohndvkjq4jefljfoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlEcMX13c3QIOYD3Q1RBtFax-HuvFjXX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495932449447-tmic5sj2t8gnajrohndvkjq4jefljfoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
